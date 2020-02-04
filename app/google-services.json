@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "359839214961",
+    "firebase_url": "https://kameradeneme2.firebaseio.com",
+    "project_id": "kameradeneme2",
+    "storage_bucket": "kameradeneme2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359839214961:android:93a4db1b8ba3e672c85ad0",
+        "android_client_info": {
+          "package_name": "com.example.kameradeneme2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359839214961-7v78c7dpm9utqrq463m651a737lqoev2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYAhGzw7zJJfUJ4VZcWitXnLvAIo5qYs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359839214961-7v78c7dpm9utqrq463m651a737lqoev2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
